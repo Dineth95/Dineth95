@@ -2,22 +2,17 @@
 
 I am a flutter lover. Developer working on flutter with Clean Architecture,Bloc as well as the Provider.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p style = "font-family:courier,arial,helvetica;">
 I am also a medium blogger.Look my articles on flutter</p>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sahasuthpala/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sahasuthpala/0" alt="Recent Article 0"> 
 
-<!--
-**Dineth95/Dineth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=@Dineth95&theme=<THEME_NAME>" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth95)](https://github.com/Dineth95/github-readme-stats)
+
+
