@@ -11,7 +11,7 @@ I am also a medium blogger.Look my articles on flutter</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth95&theme=dark)](https://github.com/Dineth95/github-readme-stats/?&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineth95&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth95&theme=dark)](https://github.com/Dineth95/github-readme-stats/?&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineth95&theme=dark&show_icons=true)
 
 
 
