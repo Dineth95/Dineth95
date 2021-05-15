@@ -13,5 +13,9 @@ I am also a medium blogger.Look my articles on flutter</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth95&theme=dark)](https://github.com/Dineth95/github-readme-stats/?&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineth95&theme=dark&show_icons=true)
 
+<h2>Technologies and Tools</h2>
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
 
 
